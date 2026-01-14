@@ -2,7 +2,7 @@ Sentiment-Driven Market Insight & Decision Analysis
 
 Transforming unstructured emotional data into actionable insights for decision-making and growth strategy.
 
-📌 Overview
+📌 Overview 
 
 This project demonstrates how sentiment analysis can be used as an analytical decision-support tool, rather than a purely technical ML task.
 It focuses on extracting behavioral and emotional signals from unstructured text and translating them into business-relevant insights.
